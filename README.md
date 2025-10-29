@@ -3,7 +3,7 @@
 This project is a simple command-line calculator written in C language.
 It allows users to perform basic arithmetic operations like Addition, Subtraction, Multiplication, and Division through an easy-to-use menu driven interface.
 <br>
-The calculator demonstrates the use of loops, switch-case statements, and conditional handling in C programming.
+This calculator demonstrates the use of loops, switch-case statements, and conditional handling in C programming.
 <br>
 
 ⚙️Features:-<br>
@@ -29,7 +29,11 @@ Compiler: GCC / MinGW<br>
 3. Multiplication (*)
 4. Division (/)
 5. Exit
-
+   
+Enter your choice: 1<br>
+Enter first number: 10<br>
+Enter second number: 5<br>
+Result: 15.00<br>
 
 💡 Future Enhancements:-<br>
 1.)Add support for modulus and power operations.<br>
